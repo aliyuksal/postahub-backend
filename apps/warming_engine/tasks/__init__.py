@@ -1,0 +1,1 @@
+from .warmup_tasks import *  # 👈 Bu şart

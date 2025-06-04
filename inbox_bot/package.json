@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "https-proxy-agent": "^7.0.6",
+    "minimist": "^1.2.8",
+    "node-fetch": "^2.7.0",
+    "pg": "^8.16.0",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^24.8.2",
+    "puppeteer-core": "^24.8.2"
+  }
+}
